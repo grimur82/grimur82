@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Passionate software developer living in Oslo, Norway. Working for ![moment.team](https://avatars.githubusercontent.com/u/763441?s=200&v=4s=48x48).
+Passionate software developer living in Oslo, Norway. Working for ![moment.team](https://avatars.githubusercontent.com/u/763441?s=48&v=4).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
