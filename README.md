@@ -1,6 +1,11 @@
 
 ### Hi there 👋
 
+
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 <!--
 **grimur82/grimur82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
