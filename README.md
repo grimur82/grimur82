@@ -1,7 +1,12 @@
 
-### Hi there 👋
+### Hi there, I'm Grimur :coffee:
 
-Passionate software developer living in Oslo, Norway.
+<br/>
+
+## I'm a passionate software developer living in Oslo, Norway
+* Currently working with [moment.team](https://www.moment.team)
+
+<br/>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -21,6 +26,9 @@ Passionate software developer living in Oslo, Norway.
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## How to reach me
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://linkedin.com/in/grimur-vid-neyst-6519608b)
 <!--
 **grimur82/grimur82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
