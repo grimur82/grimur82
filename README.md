@@ -1,12 +1,8 @@
 
 ### Hi there, I'm Grimur :coffee:
 
-<br/>
-
 ## I'm a passionate software developer living in Oslo, Norway
 * Currently working with [moment.team](https://www.moment.team)
-
-<br/>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
