@@ -1,12 +1,9 @@
 
 ### Hi there, I'm Grimur :coffee:
 
-<br/>
+#
 
-## I'm a passionate software developer living in Oslo, Norway
-* Currently working with [moment.team](https://www.moment.team)
-
-<br/>
+<i>Software Developer at [moment.team](https://www.moment.team)</i>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -29,6 +26,7 @@
 
 ## How to reach me
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://linkedin.com/in/grimur-vid-neyst-6519608b)
+
 <!--
 **grimur82/grimur82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
